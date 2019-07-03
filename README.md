@@ -1,6 +1,10 @@
 # Wine
 
-A small wine digest).
+A small wine digest.
+
+## Tasting Notes
+
+* [2014](/tasting-notes/2014.md)
 
 ## Interesting History
 
@@ -62,9 +66,5 @@ A small wine digest).
 
     * Lighter and crisper than Chardonnay.
     * German grape with some success in California.
-
-## Tasting Notes
-
-* [2014](/tasting-notes/2014.md)
 
 [blight]: https://en.wikipedia.org/wiki/Great_French_Wine_Blight
