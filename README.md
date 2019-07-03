@@ -4,6 +4,7 @@ A small wine digest.
 
 ## Tasting Notes
 
+* [2019](/tasting-notes/2019.md)
 * [2014](/tasting-notes/2014.md)
 
 ## Interesting History
